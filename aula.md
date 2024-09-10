@@ -54,3 +54,11 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja , para r
 [x] Criar, passar argumentos
 [x] Executar
 [x] errow function e named function
+
+## Estrutura de repetição
+
+[x] While
+
+## Condicionais
+
+[x] switch
