@@ -20,3 +20,37 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja , para r
 - Coleta de dados
 - Processar os dados (manipular, alterar ...)
 - Apresentar os dados..
+
+## Escopos e variáveis
+
+[x] Variáveis globias e locais
+[x] Constantes
+
+## Tipos de dados
+
+[x] Strings (textos): "" '' ``
+[x] Number 2 1.4
+[x] Boolean: true , false
+
+## Operadores 
+
+[x] Operadores de atribuição de valores
+[x] Operador de concatenação
+
+## Estruturas de dados
+
+### Array:
+
+[x] Uma lista que contém qualquer tipo de dado
+
+### Obejeto:
+
+[x] Atributos e métodos
+[x] Criação e manipulação de objetos
+[x] Acesso a propriedades de objetos
+
+### Functions
+
+[x] Criar, passar argumentos
+[x] Executar
+[x] errow function e named function
