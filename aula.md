@@ -13,7 +13,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja , para r
 - Tipos de dados (String, number,boolean)
 - Estrutura de dados (functions, object, array)
 - Controle de fluxo (if/else)
-- Estrutura de repetição(for/while)
+- Estrutura de repetição (for/while)
 
 ## Fases deresolução de um problema
 
@@ -34,8 +34,9 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja , para r
 
 ## Operadores 
 
-[x] Operadores de atribuição de valores
-[x] Operador de concatenação
+[x] Operadores de atribuição de valores: =
+[x] Operador de concatenação: +
+[x] Operadores de comparação: == != <= >= < > 
 
 ## Estruturas de dados
 
@@ -62,8 +63,13 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja , para r
 ## Condicionais
 
 [x] switch
+[x] if/else
 
 ## Módulos do Node.js:
 
 [x] Importação de módulos (require, CommonJS)
 [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e promessa
+
+[x] Uso de funções assíncronas (async/await)
