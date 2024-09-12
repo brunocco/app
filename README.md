@@ -1,2 +1,2 @@
 # app
-Bootcamp NLW criando app de Agenda de atividades
+Bootcamp NLW criando App de Agenda de Atividades usando Javascript + Node.js
