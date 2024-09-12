@@ -28,14 +28,16 @@ const listarMetas = async () => {
         instructions: false,
     })
 
+    metas.forEach((m)=>{
+        m.checked = false
+    })
+
     if(respostas.length==0){
         console.log("Nenhuma resposta foi selecionada!")
         return
     }
 
-    metas.forEach((m)=>{
-        m.checked = false
-    })
+
 
     //procura a resposta dada pelo usuario no array e marca true
     respostas.forEach((resposta) => {
